@@ -4,4 +4,4 @@ Sistema Bancário feito com Python do curso da [Digital Innovation One](https://
 
 ## 📚 | Explicação do Sistema
 Foi feito um Sistema Bancário por mim, utilizando a Linguagem de Programação Python. Onde no Sistema é possível realizar algumas ações, como Depósitos, Saques, e no final visualizar o Extrato.
-\** Sendo utilizado também a Lógica de Pogramação para desenvolver o programa e resolver problemas.
+<br> Sendo utilizado também a Lógica de Pogramação para desenvolver o programa e resolver problemas.
